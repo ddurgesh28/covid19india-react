@@ -1,7 +1,6 @@
 {
     "name": "covid19india",
-    "version": "1.0.0",
-    "description": "Covid19 India Cline",
+    "description": "Covid19 India Demo App",
     "repository": "https://github.com/ddurgesh28/covid19india-react",
     "keywords": ["node", "heroku"]
 }
